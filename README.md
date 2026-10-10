@@ -1,1 +1,1 @@
-Visit Website : ampicsync.netlify.app
+Visit Website : https://ampicsync.netlify.app/
